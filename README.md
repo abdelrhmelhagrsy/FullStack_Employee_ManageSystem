@@ -11,7 +11,13 @@ Employee attendance and invoicing tracker
 ### Backend
 
 - Java + Spring-boot
-
+- use mysql database
+- go to resources then application.yml
+- set username: "your mysql username like 'root' "
+      password: "your mysql password"
+      
 ### Frontend
 
 - React + Redux
+- npm i
+- npm start
